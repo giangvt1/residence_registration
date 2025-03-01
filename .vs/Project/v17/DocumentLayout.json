@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\prncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\prncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\householdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\householdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\householdtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\householdtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\registrationapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\registrationapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\residenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\residenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\view\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:view\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\view\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:view\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\view\\citizenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:view\\citizenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|c:\\users\\acer\\desktop\\cnki5\\prn212\\project\\project\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A0485-C1E8-43FC-81A3-274465F7EF99}|Project.csproj|solutionrelative:models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 319,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 330,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationApproval.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\RegistrationApproval.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrationApproval.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\RegistrationApproval.cs",
+              "RelativeToolTip": "Models\\RegistrationApproval.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:52:34.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HouseholdMember.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\HouseholdMember.cs",
+              "RelativeDocumentMoniker": "Models\\HouseholdMember.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\HouseholdMember.cs",
+              "RelativeToolTip": "Models\\HouseholdMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:37:09.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\DocumentType.cs",
+              "RelativeDocumentMoniker": "Models\\DocumentType.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\DocumentType.cs",
+              "RelativeToolTip": "Models\\DocumentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:37:08.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "Models\\Document.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Document.cs",
+              "RelativeToolTip": "Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:37:08.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "Models\\Area.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Area.cs",
+              "RelativeToolTip": "Models\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:37:06.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T13:27:08.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T13:08:19.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "View\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:06:57.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "View\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\AdminWindow.xaml",
+              "RelativeToolTip": "View\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T13:06:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:57:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CitizenWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\CitizenWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\CitizenWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\CitizenWindow.xaml.cs",
+              "RelativeToolTip": "View\\CitizenWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:56:49.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HouseholdTransfer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\HouseholdTransfer.cs",
+              "RelativeDocumentMoniker": "Models\\HouseholdTransfer.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\HouseholdTransfer.cs",
+              "RelativeToolTip": "Models\\HouseholdTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:56:44.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA8wFYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:43:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "View\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:31:27.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "View\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\View\\LoginWindow.xaml",
+              "RelativeToolTip": "View\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T15:29:09.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:05:47.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:47:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResidenceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\ResidenceRegistration.cs",
+              "RelativeDocumentMoniker": "Models\\ResidenceRegistration.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\ResidenceRegistration.cs",
+              "RelativeToolTip": "Models\\ResidenceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:47:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:46:05.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\DAO\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\DAO\\UserDAO.cs",
+              "RelativeToolTip": "DAO\\UserDAO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:21:59.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\Registration.cs",
+              "RelativeToolTip": "Models\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:18:43.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrnContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\PrnContext.cs",
+              "RelativeDocumentMoniker": "Models\\PrnContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\Models\\PrnContext.cs",
+              "RelativeToolTip": "Models\\PrnContext.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAawA8BAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:05:01.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T13:01:56.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\CNki5\\PRN212\\PROJECT\\Project\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:01:54.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
