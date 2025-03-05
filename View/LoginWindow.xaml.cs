@@ -43,5 +43,10 @@ namespace Project.View
             base.OnMouseLeftButtonDown(e);
             DragMove();
         }
+
+        private void roleComboBox_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
