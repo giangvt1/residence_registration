@@ -1,7 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿// Project.DAO/UserDAO.cs
+using Microsoft.EntityFrameworkCore;
 using Project.Enums;
 using Project.Models;
-
 namespace Project.DAO
 {
     public class UserDAO
@@ -15,26 +15,23 @@ namespace Project.DAO
 
         public async Task<User?> AuthenticateUser(string email, string password, Role selectedRole)
         {
-            try
-            {
-                var user = await _context.Users
-                    .FirstOrDefaultAsync(u => u.Email.ToLower() == email.ToLower());
-
-                if (user == null)
-                    return null;
-
-                if (!BCrypt.Net.BCrypt.Verify(password, user.Password))
-                    return null;
-
-                if (user.Role != selectedRole)
-                    return null;
-
-                return user;
-            }
-            catch (Exception)
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
+            if (user == null)
             {
                 return null;
             }
+            if (BCrypt.Net.BCrypt.Verify(password, user.Password))
+            {
+                if (user.Role == selectedRole)
+                {
+                    return user;
+                }
+                else
+                {
+                    return null;
+                }
+            }
+            return null;
         }
 
         public async Task AddUser(User newUser, string password)
@@ -44,48 +41,37 @@ namespace Project.DAO
             await _context.SaveChangesAsync();
         }
 
+        // --- Add this method to create the admin account ---
         public async Task CreateAdminAccount()
         {
-            try
+            // Check if the admin user already exists
+            if (!await _context.Users.AnyAsync(u => u.Email == "admin@example.com"))
             {
-                var adminEmail = "admin@system.com";
-                var existingAdmin = await _context.Users
-                    .FirstOrDefaultAsync(u => u.Email.ToLower() == adminEmail.ToLower());
-
-                if (existingAdmin == null)
+                var adminUser = new User
                 {
-                    // First, ensure we have at least one address
-                    var address = await _context.Addresses.FirstOrDefaultAsync();
-                    if (address == null)
+                    FullName = "Admin User",
+                    Email = "admin@example.com",
+                    Role = Role.Admin,
+                    Password = BCrypt.Net.BCrypt.HashPassword("admin123"), // HASH THE PASSWORD!
+                    CurrentAddressId = 1 // Replace with a valid AddressId
+                };
+                //Add default address (if not exist)
+                if (!await _context.Addresses.AnyAsync(a => a.AddressId == 1))
+                {
+                    var address = new Models.Address
                     {
-                        address = new Address
-                        {
-                            Street = "Default Street",
-                            City = "Default City",
-                            State = "Default State",
-                            Country = "Default Country",
-                            ZipCode = "00000"
-                        };
-                        _context.Addresses.Add(address);
-                        await _context.SaveChangesAsync();
-                    }
-
-                    var admin = new User
-                    {
-                        Email = adminEmail,
-                        Password = BCrypt.Net.BCrypt.HashPassword("admin123"),
-                        FullName = "System Admin",
-                        Role = Role.Admin,
-                        CurrentAddressId = address.AddressId
+                        AddressId = 1,
+                        Street = "Default Street",
+                        City = "Default City",
+                        Country = "Default Country",
+                        State = "Default State",
+                        ZipCode = "Default"
                     };
-
-                    _context.Users.Add(admin);
-                    await _context.SaveChangesAsync();
+                    _context.Addresses.Add(address);
+                    await _context.SaveChangesAsync(); // Save address
                 }
-            }
-            catch (Exception)
-            {
-                // Log error or handle it appropriately
+                _context.Users.Add(adminUser);
+                await _context.SaveChangesAsync(); // Save changes to the database
             }
         }
     }
